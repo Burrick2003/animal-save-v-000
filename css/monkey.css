@@ -14,4 +14,7 @@ html {
     size: 35%;
     top: 0;
   }
+  #monkey img {
+    size: 50%;
+  }
 }
