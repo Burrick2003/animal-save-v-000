@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 @media only screen and (min-width: 400px) and (max-width: 1150px){
   #monkey {
-    size: 65%;
+    size: 35%;
     top: 0;
   }
 }
